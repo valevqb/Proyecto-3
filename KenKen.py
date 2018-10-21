@@ -7,7 +7,6 @@ Profesor: William Mata Rodriguez
 Grupo: 2
 ___________________________________________________________________
 """
-#recordar cambiar fechas de creacion
 
 from tkinter import *
 
